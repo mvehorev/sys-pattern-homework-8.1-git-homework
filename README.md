@@ -28,7 +28,7 @@ https://github.com/mvehorev/git-8.1-task1/commit/25209c0e34441e37c515a2c3b6eb907
 
 ### Задание 2
 
-https://github.com/mvehorev/git-8.1-task1/commit/3c9cf6649e2f7cb2253002319e3794a00aec00f1
+https://github.com/mvehorev/git-8.1-task1/commit/7ee2b8bd7b6170dc7d5d7a2a56023b01a3d15392
 
 ### Задание 3
 
