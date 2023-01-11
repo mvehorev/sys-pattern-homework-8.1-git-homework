@@ -32,5 +32,5 @@ https://github.com/mvehorev/git-8.1-task1/commit/7ee2b8bd7b6170dc7d5d7a2a56023b0
 
 ### Задание 3
 
-https://github.com/mvehorev/git-8.1-task1/commits/main
+https://github.com/mvehorev/git-8.1-task1/network
 
