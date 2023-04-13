@@ -34,3 +34,5 @@ https://github.com/mvehorev/git-8.1-task1/commit/7ee2b8bd7b6170dc7d5d7a2a56023b0
 
 https://github.com/mvehorev/git-8.1-task1/network
 
+![img](img/p1.png)
+![img](img/p2.png)
